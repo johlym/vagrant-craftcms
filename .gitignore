@@ -39,3 +39,4 @@
 # Folders #
 ###########
   .vagrant/
+  .vagrant/*
