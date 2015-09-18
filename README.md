@@ -27,6 +27,7 @@ The Vagrantfile included in this repo will:
 
 - Run `apt-get update`
 - Install:
+```
 -- vim
 -- curl
 -- python-software-properties
@@ -41,6 +42,7 @@ The Vagrantfile included in this repo will:
 -- add mcrypt
 -- configure nginx
 -- copy Craft into `/var/www/craftcms`
+```
 
 ## The Technical Stuff
 
